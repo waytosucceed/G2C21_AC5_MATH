@@ -1,0 +1,64 @@
+[
+  {
+    "questionNo": 1,
+    "question": "The quiz master asked Ben, what number do we need to add to 6 to make 10?",
+    "options":["6","+","4","=",""],
+    "answers": ["6","+","4","=","10"]
+
+  },
+  {
+    "questionNo": 2,
+    "question": "What number, when added to 5, gives us 15?",
+    "options":["","-","5","=","15"],
+    "answers": ["10","+","5","=","15"]
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "Now, think about this: what number should we add to 2 to make it 28?",
+    "options":["","+","2","=","28"],
+    "answers": ["26","+","2","=","28"]
+  },
+  {
+    "questionNo": 4,
+    "question": "Next up, what number plus 15 equals 18?",
+    "options":["3","+","15","=","18"],
+    "answers": ["3","+","15","=","18"]
+  },
+  {
+    "questionNo": 5,
+    "question": "Can you tell me what the total is when you add 8 and 11 together?",
+    "options":["8","+","11","=",""],
+    "answers": ["8","+","11","=","19"]
+  },
+  {
+    "questionNo": 6,
+    "question": "Agnes, what do we get when we add 9 and 12?",
+    "options":["9","+","12","=",""],
+    "answers": ["9","+","12","=","21"]
+  },
+  {
+    "questionNo": 7,
+    "question": "Now, here’s a tricky one! What number, when added to 4, gives us 26?",
+    "options":["","+","4","=","26"],
+    "answers": ["22","+","4","=","26"]
+  },
+  {
+    "questionNo": 8,
+    "question": "What number should be added to 2 to make 25?",
+    "options":["2","+","","=","25"],
+    "answers": ["2","+","23","=","25"]
+  },
+  {
+    "questionNo": 9,
+    "question": "Can you  tell me what  number should be added to 12 to make 15?",
+    "options":["","+","12","=","15"],
+    "answers": ["3","+","12","=","15"]
+  },
+  {
+    "questionNo": 10,
+    "question": "Finally, what number do we add to 16 to get 23?",
+    "options":["","+","16","=","23"],
+    "answers": ["7","+","16","=","23"]
+  }
+]
